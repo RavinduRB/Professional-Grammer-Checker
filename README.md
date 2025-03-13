@@ -1,6 +1,6 @@
 #  **Professional Grammar Checker Application** – Elevate Your Writing to the Next Level!  🚀
 
-This **AI-powered grammar checker** is designed for writers, professionals, and students who strive for **error free and polished writing**. Developed with **Python** and **Tkinter**, this application is built using cutting edge technologies. 💯
+This **AI powered grammar checker** is designed for writers, professionals, and students who strive for **error free and polished writing**. Developed with **Python** and **Tkinter**, this application is built using cutting edge technologies. 💯
 
 
 
