@@ -1,0 +1,15 @@
+{
+    "max_text_length": 10000,
+    "max_processing_time": 5,
+    "supported_languages": [
+        "en-US",
+        "en-GB",
+        "fr",
+        "de",
+        "es"
+    ],
+    "default_language": "en-US",
+    "theme": "system",
+    "auto_save_interval": 300,
+    "max_suggestions": 5
+}
