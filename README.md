@@ -14,7 +14,7 @@ https://github.com/user-attachments/assets/20401a84-20da-4ab6-adb0-72d1f4f838de
 ✅ **Real-time Error Highlighting** – Errors in your text are automatically **highlighted in yellow**, helping you identify and correct mistakes effortlessly.  
 ✅ **Detailed Grammar Suggestions** – Get clear explanations and **suggestions** for corrections.  
 ✅ **File Support (TXT, DOCX, PDF)** – Open, edit, and save text documents in multiple formats.  
-✅ **Auto-Save Functionality** – Your work is **automatically saved** every 5 minutes to prevent data loss.  
+✅ **Auto Save Functionality** – Your work is **automatically saved** every 5 minutes to prevent data loss.  
 ✅ **Customizable Language Settings** – Supports **multiple languages** with **custom configuration options**.  
 ✅ **Modern & Responsive UI** – A clean, professional interface designed for productivity.  
 
@@ -27,7 +27,7 @@ https://github.com/user-attachments/assets/20401a84-20da-4ab6-adb0-72d1f4f838de
 🔹 **Multithreading** for efficient performance  
 🔹 **Cryptography (Fernet Encryption)** for secure file handling  
 🔹 **DOCX & PDF Export** for professional document management  
-🔹 **Auto-save & Logging** for seamless user experience  
+🔹 **Auto save & Logging** for seamless user experience  
 
 ---
 
